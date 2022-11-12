@@ -1,0 +1,10 @@
+[Unit]
+Description=Antavia mobile RFID detection system
+
+[Service]
+Restart=on-failure
+RestartSec=15s
+ExecStart=/home/pi/rfid/rfid_service.sh
+
+[Install]
+WantedBy=multi-user.target

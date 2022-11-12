@@ -1,0 +1,843 @@
+#----------DATA SECTION----------
+$RFID,AntaviaMobile_0,030922,1662221462.3530946,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,030922,1662221555.1236787,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,030922,1662221800.894853,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,030922,1662221804.1424801,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,030922,1662221808.3975246,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,030922,1662221811.9009159,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,040922,1662288384.5820482,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288391.3326683,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,040922,1662288394.83579,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288397.075695,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,040922,1662288397.8274891,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288457.0702105,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288460.5575392,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,040922,1662288461.309348,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288482.0524967,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,040922,1662288551.0559185,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662480081.1890504,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662482339.5593855,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662482348.5658073,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662482707.5875344,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662482709.8427942,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662482715.0904331,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662486397.452606,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662486400.7000895,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662486968.6204326,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662486968.8756864,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662486969.6281092,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662486970.6353705,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662486970.875987,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487058.2793791,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487064.5352573,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487069.79745,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487074.0527291,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487082.8036814,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487086.562533,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487090.562222,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487097.5689092,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487166.1182055,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487169.3806958,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487414.5726795,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,060922,1662487417.8206575,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,060922,1662487555.429459,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,060922,1662487557.6854577,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,090922,1662731753.5498965,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,090922,1662731756.556484,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,090922,1662734558.554116,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,090922,1662734706.6734242,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,090922,1662734708.9286904,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,090922,1662734711.4244595,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663081887.2960055,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663081895.055184,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,130922,1663081905.8206706,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,130922,1663081909.3236518,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663081929.5923607,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,130922,1663081931.832702,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663081934.0883243,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,130922,1663082008.892028,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663082013.4029071,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,130922,1663082021.6573546,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663082047.6847708,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,130922,1663082052.1803865,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,130922,1663082080.207544,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,140922,1663146541.8384867,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,210922,1663759853.7645566,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,210922,1663759855.268133,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,210922,1663759856.7716095,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,230922,1663924278.892259,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,230922,1663924281.6435719,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,230922,1663924282.1402018,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,031022,1664814316.8266177,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,031022,1664814479.471076,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,031022,1664814483.7114747,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,031022,1664814495.9801528,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,031022,1664814501.4836855,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,031022,1664814504.731225,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,031022,1664814508.2348967,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,031022,1664814575.7913182,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,031022,1664814578.2875254,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,031022,1664815011.1274767,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,031022,1664816000.32201,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,031022,1664816008.321199,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664910798.5860693,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664910833.3642137,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,041022,1664910845.122301,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,041022,1664910847.873582,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664910850.1292017,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,051022,1664969923.47057,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,051022,1664969924.9891038,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,051022,1664969928.2369719,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,051022,1664970384.742392,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664912417.9856627,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,041022,1664912612.8965127,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664912618.8965724,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,041022,1664912622.6551518,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664912634.1580827,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,041022,1664912638.1573534,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664912643.4200504,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,041022,1664912648.1710951,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,041022,1664912649.4194906,A 00000 0 964 000006070729,TEST,2009-12-17,I,pan.wav
+$RFID,AntaviaMobile_0,101022,1665403469.2175715,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+$RFID,AntaviaMobile_0,101022,1665403538.278344,A 00000 0 999 200070436757,,,,
+$RFID,AntaviaMobile_0,101022,1665403541.781321,R 0000 0000000165968420,TEST,0000-00-00,I,NULL
+#----------TECHNICAL LOG SECTION----------
+03-Sep-22 17:10:18 - INFO - root - -----------------------------------------------------
+03-Sep-22 17:10:18 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+03-Sep-22 17:10:18 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Sep-22 17:10:18 - INFO - root - Initializing the LCD display
+03-Sep-22 17:10:19 - INFO - root - Scanning USB devices
+03-Sep-22 17:10:19 - INFO - root - TIRIS device found on /dev/ttyUSB0
+03-Sep-22 17:10:54 - INFO - root - -----------------------------------------------------
+03-Sep-22 17:10:54 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+03-Sep-22 17:10:54 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Sep-22 17:10:54 - INFO - root - Initializing the LCD display
+03-Sep-22 17:10:55 - INFO - root - Scanning USB devices
+03-Sep-22 17:10:55 - INFO - root - TIRIS device found on /dev/ttyUSB0
+03-Sep-22 17:10:55 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Sep-22 17:10:55 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+03-Sep-22 17:10:55 - INFO - root - Initializing the serial TIRIS reader thread
+03-Sep-22 17:10:55 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Sep-22 17:10:55 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Sep-22 17:10:56 - INFO - root - Initializing the detection processing thread
+03-Sep-22 17:10:56 - INFO - root - Starting the MQTT broker connexion
+03-Sep-22 17:10:56 - INFO - root - Starting the detection broadcasting thread
+03-Sep-22 17:12:17 - INFO - root - -----------------------------------------------------
+03-Sep-22 17:12:17 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+03-Sep-22 17:12:17 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Sep-22 17:12:17 - INFO - root - Initializing the LCD display
+03-Sep-22 17:12:18 - INFO - root - Scanning USB devices
+03-Sep-22 17:12:18 - INFO - root - TIRIS device found on /dev/ttyUSB0
+03-Sep-22 17:12:18 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Sep-22 17:12:18 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+03-Sep-22 17:12:18 - INFO - root - Initializing the serial TIRIS reader thread
+03-Sep-22 17:12:18 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Sep-22 17:12:18 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Sep-22 17:12:18 - INFO - root - Initializing the detection processing thread
+03-Sep-22 17:12:18 - INFO - root - Starting the MQTT broker connexion
+03-Sep-22 17:12:18 - INFO - root - Starting the detection broadcasting thread
+03-Sep-22 17:16:35 - INFO - root - -----------------------------------------------------
+03-Sep-22 17:16:35 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+03-Sep-22 17:16:35 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Sep-22 17:16:35 - INFO - root - Initializing the LCD display
+03-Sep-22 17:16:36 - INFO - root - Scanning USB devices
+03-Sep-22 17:16:36 - INFO - root - TIRIS device found on /dev/ttyUSB0
+03-Sep-22 17:16:38 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Sep-22 17:16:38 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+03-Sep-22 17:16:38 - INFO - root - Initializing the serial TIRIS reader thread
+03-Sep-22 17:16:38 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Sep-22 17:16:38 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Sep-22 17:16:38 - INFO - root - Initializing the detection processing thread
+03-Sep-22 17:16:38 - INFO - root - Starting the MQTT broker connexion
+03-Sep-22 17:16:38 - INFO - root - Starting the detection broadcasting thread
+04-Sep-22 11:46:06 - INFO - root - -----------------------------------------------------
+04-Sep-22 11:46:06 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+04-Sep-22 11:46:06 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Sep-22 11:46:06 - INFO - root - Initializing the LCD display
+04-Sep-22 11:46:07 - INFO - root - Scanning USB devices
+04-Sep-22 11:46:08 - INFO - root - TIRIS device found on /dev/ttyUSB0
+04-Sep-22 11:46:22 - INFO - root - -----------------------------------------------------
+04-Sep-22 11:46:22 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+04-Sep-22 11:46:22 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Sep-22 11:46:22 - INFO - root - Initializing the LCD display
+04-Sep-22 11:46:23 - INFO - root - Scanning USB devices
+04-Sep-22 11:46:23 - INFO - root - TIRIS device found on /dev/ttyUSB0
+04-Sep-22 11:46:24 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Sep-22 11:46:24 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+04-Sep-22 11:46:24 - INFO - root - Initializing the serial TIRIS reader thread
+04-Sep-22 11:46:24 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Sep-22 11:46:24 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Sep-22 11:46:24 - INFO - root - Initializing the detection processing thread
+04-Sep-22 11:46:24 - INFO - root - Starting the MQTT broker connexion
+04-Sep-22 11:46:24 - INFO - root - Starting the detection broadcasting thread
+04-Sep-22 11:47:35 - INFO - root - -----------------------------------------------------
+04-Sep-22 11:47:35 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+04-Sep-22 11:47:35 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Sep-22 11:47:35 - INFO - root - Initializing the LCD display
+04-Sep-22 11:47:36 - INFO - root - Scanning USB devices
+04-Sep-22 11:47:36 - INFO - root - TIRIS device found on /dev/ttyUSB0
+04-Sep-22 11:47:36 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Sep-22 11:47:36 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+04-Sep-22 11:47:36 - INFO - root - Initializing the serial TIRIS reader thread
+04-Sep-22 11:47:36 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Sep-22 11:47:36 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Sep-22 11:47:36 - INFO - root - Initializing the detection processing thread
+04-Sep-22 11:47:36 - INFO - root - Starting the MQTT broker connexion
+04-Sep-22 11:47:36 - INFO - root - Starting the detection broadcasting thread
+04-Sep-22 11:47:58 - INFO - root - -----------------------------------------------------
+04-Sep-22 11:47:58 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+04-Sep-22 11:47:58 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Sep-22 11:47:58 - INFO - root - Initializing the LCD display
+04-Sep-22 11:47:59 - INFO - root - Scanning USB devices
+04-Sep-22 11:47:59 - INFO - root - TIRIS device found on /dev/ttyUSB0
+04-Sep-22 11:48:01 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Sep-22 11:48:01 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+04-Sep-22 11:48:01 - INFO - root - Initializing the serial TIRIS reader thread
+04-Sep-22 11:48:01 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Sep-22 11:48:01 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Sep-22 11:48:01 - INFO - root - Initializing the detection processing thread
+04-Sep-22 11:48:01 - INFO - root - Starting the MQTT broker connexion
+04-Sep-22 11:48:01 - INFO - root - Starting the detection broadcasting thread
+04-Sep-22 11:49:07 - INFO - root - -----------------------------------------------------
+04-Sep-22 11:49:07 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+04-Sep-22 11:49:07 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Sep-22 11:49:07 - INFO - root - Initializing the LCD display
+04-Sep-22 11:49:09 - INFO - root - Scanning USB devices
+04-Sep-22 11:49:09 - INFO - root - TIRIS device found on /dev/ttyUSB0
+04-Sep-22 11:49:10 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Sep-22 11:49:10 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+04-Sep-22 11:49:10 - INFO - root - Initializing the serial TIRIS reader thread
+04-Sep-22 11:49:10 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Sep-22 11:49:10 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Sep-22 11:49:10 - INFO - root - Initializing the detection processing thread
+04-Sep-22 11:49:10 - INFO - root - Starting the MQTT broker connexion
+04-Sep-22 11:49:10 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 16:56:21 - INFO - root - -----------------------------------------------------
+06-Sep-22 16:56:21 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 16:56:21 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 16:56:21 - INFO - root - Initializing the LCD display
+06-Sep-22 16:56:22 - INFO - root - Scanning USB devices
+06-Sep-22 16:56:23 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 16:56:23 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 16:56:23 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 16:56:23 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 16:56:23 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 16:56:23 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 16:56:23 - INFO - root - Initializing the detection processing thread
+06-Sep-22 16:56:23 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 16:56:23 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 17:00:59 - INFO - root - -----------------------------------------------------
+06-Sep-22 17:00:59 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 17:00:59 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 17:00:59 - INFO - root - Initializing the LCD display
+06-Sep-22 17:01:00 - INFO - root - Scanning USB devices
+06-Sep-22 17:01:01 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 17:01:01 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 17:01:01 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 17:01:01 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 17:01:01 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 17:01:01 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 17:01:01 - INFO - root - Initializing the detection processing thread
+06-Sep-22 17:01:01 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 17:01:01 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 17:22:44 - INFO - root - -----------------------------------------------------
+06-Sep-22 17:22:44 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 17:22:44 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 17:22:44 - INFO - root - Initializing the LCD display
+06-Sep-22 17:22:45 - INFO - root - Scanning USB devices
+06-Sep-22 17:22:46 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 17:22:46 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 17:22:46 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 17:22:46 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 17:22:46 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 17:22:46 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 17:22:46 - INFO - root - Initializing the detection processing thread
+06-Sep-22 17:22:46 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 17:22:46 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 17:38:33 - INFO - root - -----------------------------------------------------
+06-Sep-22 17:38:33 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 17:38:33 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 17:38:33 - INFO - root - Initializing the LCD display
+06-Sep-22 17:38:34 - INFO - root - Scanning USB devices
+06-Sep-22 17:38:34 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 17:38:34 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 17:38:34 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 17:38:34 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 17:38:34 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 17:38:34 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 17:38:34 - INFO - root - Initializing the detection processing thread
+06-Sep-22 17:38:34 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 17:38:34 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 17:44:08 - INFO - root - -----------------------------------------------------
+06-Sep-22 17:44:08 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 17:44:08 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 17:44:08 - INFO - root - Initializing the LCD display
+06-Sep-22 17:44:09 - INFO - root - Scanning USB devices
+06-Sep-22 17:44:09 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 17:44:10 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 17:44:10 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 17:44:10 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 17:44:10 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 17:44:10 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 17:44:10 - INFO - root - Initializing the detection processing thread
+06-Sep-22 17:44:10 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 17:44:10 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 17:58:09 - INFO - root - -----------------------------------------------------
+06-Sep-22 17:58:09 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 17:58:09 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 17:58:09 - INFO - root - Initializing the LCD display
+06-Sep-22 17:58:10 - INFO - root - Scanning USB devices
+06-Sep-22 17:58:11 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 17:58:11 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 17:58:11 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 17:58:11 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 17:58:11 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 17:58:11 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 17:58:11 - INFO - root - Initializing the detection processing thread
+06-Sep-22 17:58:11 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 17:58:11 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:00:00 - INFO - root - System is running
+06-Sep-22 18:00:00 - INFO - root - Battery 12.45V, regulator supplying 5.07V at 0.34A, running at 26.875°C
+06-Sep-22 18:02:55 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:02:55 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:02:55 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:02:55 - INFO - root - Initializing the LCD display
+06-Sep-22 18:02:56 - INFO - root - Scanning USB devices
+06-Sep-22 18:02:57 - INFO - root - GPS device found on /dev/ttyUSB0
+06-Sep-22 18:02:57 - INFO - root - TIRIS device found on /dev/ttyUSB1
+06-Sep-22 18:02:57 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 18:02:57 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:02:57 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:02:57 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:02:57 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:02:57 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:02:57 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:46:32 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:46:32 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:46:32 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:46:32 - INFO - root - Initializing the LCD display
+06-Sep-22 18:46:33 - INFO - root - Scanning USB devices
+06-Sep-22 18:46:36 - INFO - root - Iridium device found on /dev/ttyUSB0
+06-Sep-22 18:46:37 - INFO - root - GPS device found on /dev/ttyUSB1
+06-Sep-22 18:46:37 - INFO - root - TIRIS device found on /dev/ttyUSB2
+06-Sep-22 18:46:37 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:46:37 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:46:37 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:46:37 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:46:37 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:46:37 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:54:54 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:54:54 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:54:54 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:54:54 - INFO - root - Initializing the LCD display
+06-Sep-22 18:54:58 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:54:58 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:54:58 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:54:58 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:10 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:55:10 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:55:10 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:55:10 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:15 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:55:15 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:55:15 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:55:15 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:29 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:55:29 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:55:29 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:55:29 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:30 - INFO - root - Scanning USB devices
+06-Sep-22 18:55:31 - INFO - root - GPS device found on /dev/ttyUSB1
+06-Sep-22 18:55:31 - INFO - root - TIRIS device found on /dev/ttyUSB2
+06-Sep-22 18:55:31 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 18:55:31 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:55:31 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:55:31 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:55:31 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:55:31 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:55:31 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:55:31 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:55:31 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:55:31 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:55:31 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:32 - INFO - root - Scanning USB devices
+06-Sep-22 18:55:35 - INFO - root - GPS device found on /dev/ttyUSB1
+06-Sep-22 18:55:35 - INFO - root - TIRIS device found on /dev/ttyUSB2
+06-Sep-22 18:55:35 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 18:55:35 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:55:35 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:55:35 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:55:35 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:55:35 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:55:35 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:55:38 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:55:38 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:55:38 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:55:38 - INFO - root - Initializing the LCD display
+06-Sep-22 18:55:39 - INFO - root - Scanning USB devices
+06-Sep-22 18:55:42 - INFO - root - GPS device found on /dev/ttyUSB1
+06-Sep-22 18:55:42 - INFO - root - TIRIS device found on /dev/ttyUSB2
+06-Sep-22 18:55:42 - WARNING - root - Iridium modem not found. Data will be stored locally only.
+06-Sep-22 18:55:42 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:55:42 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:55:42 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:55:42 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:55:42 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:55:42 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 18:57:24 - INFO - root - -----------------------------------------------------
+06-Sep-22 18:57:24 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+06-Sep-22 18:57:24 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+06-Sep-22 18:57:24 - INFO - root - Initializing the LCD display
+06-Sep-22 18:57:25 - INFO - root - Scanning USB devices
+06-Sep-22 18:57:28 - INFO - root - Iridium device found on /dev/ttyUSB0
+06-Sep-22 18:57:30 - INFO - root - GPS device found on /dev/ttyUSB1
+06-Sep-22 18:57:30 - INFO - root - TIRIS device found on /dev/ttyUSB2
+06-Sep-22 18:57:30 - INFO - root - Initializing the serial TIRIS reader thread
+06-Sep-22 18:57:30 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+06-Sep-22 18:57:30 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+06-Sep-22 18:57:33 - INFO - root - Initializing the detection processing thread
+06-Sep-22 18:57:33 - INFO - root - Starting the MQTT broker connexion
+06-Sep-22 18:57:33 - INFO - root - Starting the detection broadcasting thread
+06-Sep-22 19:00:00 - INFO - root - System is running
+06-Sep-22 19:00:00 - INFO - root - Battery 12.58V, regulator supplying 5.03V at 0.21A, running at 31.625°C
+06-Sep-22 19:03:00 - INFO - root - Failed to obtain a valid GPS fix
+09-Sep-22 12:59:13 - INFO - root - -----------------------------------------------------
+09-Sep-22 12:59:13 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+09-Sep-22 12:59:13 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+09-Sep-22 12:59:13 - INFO - root - Initializing the LCD display
+09-Sep-22 12:59:15 - INFO - root - Scanning USB devices
+09-Sep-22 12:59:18 - INFO - root - Iridium device found on /dev/ttyUSB0
+09-Sep-22 12:59:34 - INFO - root - -----------------------------------------------------
+09-Sep-22 12:59:34 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+09-Sep-22 12:59:34 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+09-Sep-22 12:59:34 - INFO - root - Initializing the LCD display
+09-Sep-22 12:59:35 - INFO - root - Scanning USB devices
+09-Sep-22 12:59:38 - INFO - root - Iridium device found on /dev/ttyUSB0
+09-Sep-22 12:59:38 - INFO - root - GPS device found on /dev/ttyUSB1
+09-Sep-22 12:59:38 - INFO - root - TIRIS device found on /dev/ttyUSB2
+09-Sep-22 12:59:38 - INFO - root - Initializing the serial TIRIS reader thread
+09-Sep-22 12:59:38 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+09-Sep-22 12:59:38 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+09-Sep-22 12:59:38 - INFO - root - Initializing the detection processing thread
+09-Sep-22 12:59:38 - INFO - root - Starting the MQTT broker connexion
+09-Sep-22 12:59:38 - INFO - root - Starting the detection broadcasting thread
+09-Sep-22 13:00:00 - INFO - root - System is running
+09-Sep-22 13:00:00 - INFO - root - Battery 12.70V, regulator supplying 5.07V at 0.30A, running at 21.125°C
+09-Sep-22 13:01:35 - INFO - root - -----------------------------------------------------
+09-Sep-22 13:01:35 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+09-Sep-22 13:01:35 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+09-Sep-22 13:01:35 - INFO - root - Initializing the LCD display
+09-Sep-22 13:01:37 - INFO - root - Scanning USB devices
+09-Sep-22 13:01:40 - INFO - root - Iridium device found on /dev/ttyUSB0
+09-Sep-22 13:01:40 - INFO - root - GPS device found on /dev/ttyUSB1
+09-Sep-22 13:01:40 - INFO - root - TIRIS device found on /dev/ttyUSB2
+09-Sep-22 13:01:40 - INFO - root - Initializing the serial TIRIS reader thread
+09-Sep-22 13:01:40 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+09-Sep-22 13:01:40 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+09-Sep-22 13:01:40 - INFO - root - Initializing the detection processing thread
+09-Sep-22 13:01:40 - INFO - root - Starting the MQTT broker connexion
+09-Sep-22 13:01:40 - INFO - root - Starting the detection broadcasting thread
+09-Sep-22 14:55:27 - INFO - root - -----------------------------------------------------
+09-Sep-22 14:55:27 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+09-Sep-22 14:55:27 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+09-Sep-22 14:55:27 - INFO - root - Initializing the LCD display
+09-Sep-22 14:55:29 - INFO - root - Scanning USB devices
+09-Sep-22 14:55:32 - INFO - root - Iridium device found on /dev/ttyUSB0
+09-Sep-22 14:55:48 - INFO - root - -----------------------------------------------------
+09-Sep-22 14:55:48 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+09-Sep-22 14:55:48 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+09-Sep-22 14:55:48 - INFO - root - Initializing the LCD display
+09-Sep-22 14:55:49 - INFO - root - Scanning USB devices
+09-Sep-22 14:55:52 - INFO - root - Iridium device found on /dev/ttyUSB0
+09-Sep-22 14:55:53 - INFO - root - GPS device found on /dev/ttyUSB1
+09-Sep-22 14:55:53 - INFO - root - TIRIS device found on /dev/ttyUSB2
+09-Sep-22 14:55:53 - INFO - root - Initializing the serial TIRIS reader thread
+09-Sep-22 14:55:53 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+09-Sep-22 14:55:53 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+09-Sep-22 14:55:53 - INFO - root - Initializing the detection processing thread
+09-Sep-22 14:55:53 - INFO - root - Starting the MQTT broker connexion
+09-Sep-22 14:55:53 - INFO - root - Starting the detection broadcasting thread
+14-Sep-22 10:08:30 - INFO - root - -----------------------------------------------------
+14-Sep-22 10:08:30 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+14-Sep-22 10:08:30 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+14-Sep-22 10:08:30 - INFO - root - Initializing the LCD display
+14-Sep-22 10:08:32 - INFO - root - Scanning USB devices
+14-Sep-22 10:08:35 - INFO - root - Iridium device found on /dev/ttyUSB0
+14-Sep-22 10:08:51 - INFO - root - -----------------------------------------------------
+14-Sep-22 10:08:51 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+14-Sep-22 10:08:51 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+14-Sep-22 10:08:51 - INFO - root - Initializing the LCD display
+14-Sep-22 10:08:52 - INFO - root - Scanning USB devices
+14-Sep-22 10:08:55 - INFO - root - Iridium device found on /dev/ttyUSB0
+14-Sep-22 10:08:56 - INFO - root - GPS device found on /dev/ttyUSB1
+14-Sep-22 10:08:56 - INFO - root - TIRIS device found on /dev/ttyUSB2
+14-Sep-22 10:08:56 - INFO - root - Initializing the serial TIRIS reader thread
+14-Sep-22 10:08:56 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+14-Sep-22 10:08:56 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+14-Sep-22 10:08:56 - INFO - root - Initializing the detection processing thread
+14-Sep-22 10:08:56 - INFO - root - Starting the MQTT broker connexion
+14-Sep-22 10:08:56 - INFO - root - Starting the detection broadcasting thread
+20-Sep-22 18:09:18 - INFO - root - -----------------------------------------------------
+20-Sep-22 18:09:18 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+20-Sep-22 18:09:18 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+20-Sep-22 18:09:18 - INFO - root - Initializing the LCD display
+20-Sep-22 18:09:20 - INFO - root - Scanning USB devices
+20-Sep-22 18:09:23 - INFO - root - Iridium device found on /dev/ttyUSB0
+20-Sep-22 18:09:23 - INFO - root - GPS device found on /dev/ttyUSB1
+20-Sep-22 18:09:23 - INFO - root - TIRIS device found on /dev/ttyUSB2
+20-Sep-22 18:09:23 - INFO - root - Initializing the serial TIRIS reader thread
+20-Sep-22 18:09:23 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+20-Sep-22 18:09:23 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+20-Sep-22 18:09:23 - INFO - root - Initializing the detection processing thread
+20-Sep-22 18:09:23 - INFO - root - Starting the MQTT broker connexion
+20-Sep-22 18:09:23 - INFO - root - Starting the detection broadcasting thread
+20-Sep-22 19:00:00 - INFO - root - System is running
+20-Sep-22 19:00:00 - INFO - root - Battery 12.15V, regulator supplying 4.97V at 0.51A, running at 40.75°C
+20-Sep-22 19:03:00 - INFO - root - Failed to obtain a valid GPS fix
+20-Sep-22 20:00:00 - INFO - root - System is running
+20-Sep-22 20:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.07V at 0.30A, running at 43.25°C
+20-Sep-22 20:03:00 - INFO - root - Failed to obtain a valid GPS fix
+20-Sep-22 21:00:00 - INFO - root - System is running
+20-Sep-22 21:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.03V at 0.32A, running at 43.875°C
+20-Sep-22 21:03:00 - INFO - root - Failed to obtain a valid GPS fix
+20-Sep-22 22:00:00 - INFO - root - System is running
+20-Sep-22 22:00:00 - INFO - root - Battery 12.02V, regulator supplying 5.02V at 0.55A, running at 44.125°C
+20-Sep-22 22:03:00 - INFO - root - Failed to obtain a valid GPS fix
+20-Sep-22 23:00:00 - INFO - root - System is running
+20-Sep-22 23:00:00 - INFO - root - Battery 12.09V, regulator supplying 4.97V at 0.51A, running at 44.375°C
+20-Sep-22 23:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 00:00:00 - INFO - root - System is running
+21-Sep-22 00:00:00 - INFO - root - Battery 12.09V, regulator supplying 4.96V at 0.25A, running at 44.375°C
+21-Sep-22 00:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 01:00:00 - INFO - root - System is running
+21-Sep-22 01:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.03V at 0.58A, running at 44.25°C
+21-Sep-22 01:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 02:00:00 - INFO - root - System is running
+21-Sep-22 02:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.07V at 0.21A, running at 44.125°C
+21-Sep-22 02:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 03:00:00 - INFO - root - System is running
+21-Sep-22 03:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.02V at 0.38A, running at 44.25°C
+21-Sep-22 03:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 04:00:00 - INFO - root - System is running
+21-Sep-22 04:00:00 - INFO - root - Battery 12.02V, regulator supplying 5.02V at 0.25A, running at 43.875°C
+21-Sep-22 04:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 05:00:00 - INFO - root - System is running
+21-Sep-22 05:00:00 - INFO - root - Battery 12.02V, regulator supplying 4.96V at 0.49A, running at 44°C
+21-Sep-22 05:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 06:00:00 - INFO - root - System is running
+21-Sep-22 06:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.07V at 0.53A, running at 43°C
+21-Sep-22 06:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 07:00:00 - INFO - root - System is running
+21-Sep-22 07:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.01V at 0.34A, running at 43.125°C
+21-Sep-22 07:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 08:00:00 - INFO - root - System is running
+21-Sep-22 08:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.03V at 0.43A, running at 43.5°C
+21-Sep-22 08:03:01 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 09:00:00 - INFO - root - System is running
+21-Sep-22 09:00:00 - INFO - root - Battery 12.02V, regulator supplying 4.95V at 0.27A, running at 43.75°C
+21-Sep-22 09:03:01 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 10:00:00 - INFO - root - System is running
+21-Sep-22 10:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.07V at 0.36A, running at 44.375°C
+21-Sep-22 10:03:00 - INFO - root - Failed to obtain a valid GPS fix
+21-Sep-22 11:34:09 - INFO - root - -----------------------------------------------------
+21-Sep-22 11:34:09 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+21-Sep-22 11:34:09 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+21-Sep-22 11:34:09 - INFO - root - Initializing the LCD display
+21-Sep-22 11:34:11 - INFO - root - Scanning USB devices
+21-Sep-22 11:34:14 - INFO - root - Iridium device found on /dev/ttyUSB0
+21-Sep-22 11:34:14 - INFO - root - GPS device found on /dev/ttyUSB1
+21-Sep-22 11:34:14 - INFO - root - TIRIS device found on /dev/ttyUSB2
+21-Sep-22 11:34:14 - INFO - root - Initializing the serial TIRIS reader thread
+21-Sep-22 11:34:14 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+21-Sep-22 11:34:14 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+21-Sep-22 11:34:14 - INFO - root - Initializing the detection processing thread
+21-Sep-22 11:34:14 - INFO - root - Starting the MQTT broker connexion
+21-Sep-22 11:34:14 - INFO - root - Starting the detection broadcasting thread
+21-Sep-22 12:00:00 - INFO - root - System is running
+21-Sep-22 12:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.08V at 0.36A, running at 44°C
+21-Sep-22 12:00:01 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.02V at 0.25A, running at 44°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3598.282094 seconds
+21-Sep-22 12:00:02 - INFO - root - Updated RTC time from system by 3599 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.02V at 0.47A, running at 44.125°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3597.288091 seconds
+21-Sep-22 12:00:03 - INFO - root - Updated RTC time from system by 3597 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.07V at 0.25A, running at 44.125°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3596.283272 seconds
+21-Sep-22 12:00:04 - INFO - root - Updated RTC time from system by 3596 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.08V at 0.23A, running at 44.25°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3595.292116 seconds
+21-Sep-22 12:00:05 - INFO - root - Updated RTC time from system by 3595 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.01V at 0.36A, running at 44.125°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3594.279821 seconds
+21-Sep-22 12:00:06 - INFO - root - Updated RTC time from system by 3594 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.02V at 0.47A, running at 44.125°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3593.260598 seconds
+21-Sep-22 12:00:07 - INFO - root - Updated RTC time from system by 3593 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.07V at 0.23A, running at 43.875°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3592.247773 seconds
+21-Sep-22 12:00:08 - INFO - root - Updated RTC time from system by 3593 seconds
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.02V at 0.49A, running at 43.625°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 3591.210955 seconds
+21-Sep-22 12:00:09 - INFO - root - Updated RTC time from system by 3591 seconds
+21-Sep-22 12:26:35 - INFO - root - -----------------------------------------------------
+21-Sep-22 12:26:35 - INFO - root - POLAROBS MOBILE RFID VERSION 1.0 - STARTING ACQUISITION
+21-Sep-22 12:26:35 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+21-Sep-22 12:26:35 - INFO - root - Initializing the LCD display
+21-Sep-22 12:26:37 - INFO - root - Scanning USB devices
+21-Sep-22 12:26:40 - INFO - root - Iridium device found on /dev/ttyUSB0
+21-Sep-22 12:26:42 - INFO - root - GPS device found on /dev/ttyUSB1
+21-Sep-22 12:26:42 - INFO - root - TIRIS device found on /dev/ttyUSB2
+21-Sep-22 12:26:42 - INFO - root - Initializing the serial TIRIS reader thread
+21-Sep-22 12:26:42 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+21-Sep-22 12:26:42 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+21-Sep-22 12:26:44 - INFO - root - Initializing the detection processing thread
+21-Sep-22 12:26:45 - INFO - root - Starting the MQTT broker connexion
+21-Sep-22 12:26:45 - INFO - root - Starting the detection broadcasting thread
+21-Sep-22 13:00:00 - INFO - root - System is running
+21-Sep-22 13:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.03V at 0.34A, running at 43.875°C
+21-Sep-22 13:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 13:00:00 - INFO - root - Updated system time from GPS by 26833.574933 seconds
+21-Sep-22 20:27:14 - INFO - root - Updated RTC time from system by 26833 seconds
+21-Sep-22 21:00:00 - INFO - root - System is running
+21-Sep-22 21:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.01V at 0.49A, running at 44°C
+21-Sep-22 21:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 21:00:00 - INFO - root - Updated system time from GPS by 1963.296781 seconds
+21-Sep-22 20:27:17 - INFO - root - Updated RTC time from system by 1963 seconds
+21-Sep-22 21:00:00 - INFO - root - System is running
+21-Sep-22 21:00:00 - INFO - root - Battery 12.15V, regulator supplying 5.03V at 0.25A, running at 44.125°C
+21-Sep-22 21:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 21:00:00 - INFO - root - Updated system time from GPS by 1961.295594 seconds
+21-Sep-22 20:27:19 - INFO - root - Updated RTC time from system by 1961 seconds
+21-Sep-22 21:00:00 - INFO - root - System is running
+21-Sep-22 21:00:00 - INFO - root - Battery 12.09V, regulator supplying 4.95V at 0.21A, running at 44°C
+21-Sep-22 21:00:00 - INFO - root - Obtained a valid GPS fix
+21-Sep-22 21:00:00 - INFO - root - Updated system time from GPS by 1960.286676 seconds
+21-Sep-22 20:27:20 - INFO - root - Updated RTC time from system by 1960 seconds
+21-Sep-22 21:00:00 - INFO - root - System is running
+21-Sep-22 21:00:00 - INFO - root - Battery 12.09V, regulator supplying 4.96V at 0.38A, running at 44°C
+21-Sep-22 21:00:00 - INFO - root - Obtained a valid GPS fix
+23-Sep-22 10:08:35 - INFO - root - -----------------------------------------------------
+23-Sep-22 10:08:35 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+23-Sep-22 10:08:35 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+23-Sep-22 10:08:35 - INFO - root - Initializing the LCD display
+23-Sep-22 10:08:37 - INFO - root - Scanning USB devices
+23-Sep-22 10:08:40 - INFO - root - Iridium device found on /dev/ttyUSB0
+                                                                                                                                                                                                                                                                                                                                                                                                            23-Sep-22 10:10:34 - INFO - root - -----------------------------------------------------
+23-Sep-22 10:10:34 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+23-Sep-22 10:10:34 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+23-Sep-22 10:10:34 - INFO - root - Initializing the LCD display
+23-Sep-22 10:10:35 - INFO - root - Scanning USB devices
+23-Sep-22 10:10:38 - INFO - root - Iridium device found on /dev/ttyUSB0
+23-Sep-22 10:10:41 - INFO - root - GPS device found on /dev/ttyUSB1
+23-Sep-22 10:10:41 - INFO - root - TIRIS device found on /dev/ttyUSB2
+23-Sep-22 10:10:41 - INFO - root - Initializing the serial TIRIS reader thread
+23-Sep-22 10:10:41 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+23-Sep-22 10:10:41 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+23-Sep-22 10:10:43 - INFO - root - Initializing the detection processing thread
+23-Sep-22 10:10:43 - INFO - root - Starting the MQTT broker connexion
+23-Sep-22 10:10:43 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 17:25:01 - INFO - root - -----------------------------------------------------
+03-Oct-22 17:25:01 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 17:25:01 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 17:25:01 - INFO - root - Initializing the LCD display
+03-Oct-22 17:25:02 - INFO - root - Scanning USB devices
+03-Oct-22 17:25:05 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 17:25:06 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 17:25:06 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 17:25:06 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 17:25:06 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 17:25:06 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 17:25:06 - INFO - root - Initializing the detection processing thread
+03-Oct-22 17:25:06 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 17:25:06 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 17:39:57 - INFO - root - -----------------------------------------------------
+03-Oct-22 17:39:57 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 17:39:57 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 17:39:57 - INFO - root - Initializing the LCD display
+03-Oct-22 17:39:58 - INFO - root - Scanning USB devices
+03-Oct-22 17:40:02 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 17:40:02 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 17:40:02 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 17:40:02 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 17:40:02 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 17:40:02 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 17:40:02 - INFO - root - Initializing the detection processing thread
+03-Oct-22 17:40:02 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 17:40:02 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 17:42:51 - INFO - root - -----------------------------------------------------
+03-Oct-22 17:42:51 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 17:42:51 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 17:42:51 - INFO - root - Initializing the LCD display
+03-Oct-22 17:42:53 - INFO - root - Scanning USB devices
+03-Oct-22 17:42:56 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 17:42:59 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 17:42:59 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 17:42:59 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 17:42:59 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 17:42:59 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 17:43:02 - INFO - root - Initializing the detection processing thread
+03-Oct-22 17:43:02 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 17:43:02 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 18:00:00 - INFO - root - System is running
+03-Oct-22 18:00:00 - INFO - root - Battery 12.09V, regulator supplying 5.03V at 0.43A, running at 31.625°C
+03-Oct-22 18:00:00 - INFO - root - Obtained a valid GPS fix
+03-Oct-22 18:00:00 - INFO - root - Updated system time from GPS by 7808.036476 seconds
+03-Oct-22 20:10:09 - INFO - root - Updated RTC time from system by 7806 seconds
+03-Oct-22 20:13:42 - INFO - root - -----------------------------------------------------
+03-Oct-22 20:13:42 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 20:13:42 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 20:13:42 - INFO - root - Initializing the LCD display
+03-Oct-22 20:13:44 - INFO - root - Scanning USB devices
+03-Oct-22 20:13:47 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 20:13:49 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 20:13:50 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 20:13:50 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 20:13:50 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 20:13:50 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 20:13:51 - INFO - root - Initializing the detection processing thread
+03-Oct-22 20:13:51 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 20:13:51 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 20:16:51 - INFO - root - -----------------------------------------------------
+03-Oct-22 20:16:51 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 20:16:51 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 20:16:51 - INFO - root - Initializing the LCD display
+03-Oct-22 20:16:53 - INFO - root - Scanning USB devices
+03-Oct-22 20:16:56 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 20:16:58 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 20:16:58 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 20:16:58 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 20:16:58 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 20:16:58 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 20:17:00 - INFO - root - Initializing the detection processing thread
+03-Oct-22 20:17:00 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 20:17:01 - INFO - root - Starting the detection broadcasting thread
+03-Oct-22 20:19:10 - INFO - root - -----------------------------------------------------
+03-Oct-22 20:19:10 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+03-Oct-22 20:19:10 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+03-Oct-22 20:19:10 - INFO - root - Initializing the LCD display
+03-Oct-22 20:19:12 - INFO - root - Scanning USB devices
+03-Oct-22 20:19:15 - INFO - root - Iridium device found on /dev/ttyUSB0
+03-Oct-22 20:19:18 - INFO - root - GPS device found on /dev/ttyUSB1
+03-Oct-22 20:19:18 - INFO - root - TIRIS device found on /dev/ttyUSB2
+03-Oct-22 20:19:18 - INFO - root - Initializing the serial TIRIS reader thread
+03-Oct-22 20:19:18 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+03-Oct-22 20:19:18 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+03-Oct-22 20:19:19 - INFO - root - Initializing the detection processing thread
+03-Oct-22 20:19:19 - INFO - root - Starting the MQTT broker connexion
+03-Oct-22 20:19:20 - INFO - root - Starting the detection broadcasting thread
+04-Oct-22 20:12:34 - INFO - root - -----------------------------------------------------
+04-Oct-22 20:12:34 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+04-Oct-22 20:12:34 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Oct-22 20:12:34 - INFO - root - Initializing the LCD display
+04-Oct-22 20:12:35 - INFO - root - Scanning USB devices
+04-Oct-22 20:12:38 - INFO - root - Iridium device found on /dev/ttyUSB0
+04-Oct-22 20:12:39 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Oct-22 20:12:39 - INFO - root - TIRIS device found on /dev/ttyUSB2
+04-Oct-22 20:12:39 - INFO - root - Initializing the serial TIRIS reader thread
+04-Oct-22 20:12:39 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Oct-22 20:12:39 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Oct-22 20:12:39 - INFO - root - Initializing the detection processing thread
+04-Oct-22 20:12:39 - INFO - root - Starting the MQTT broker connexion
+04-Oct-22 20:12:39 - INFO - root - Starting the detection broadcasting thread
+05-Oct-22 12:37:30 - INFO - root - -----------------------------------------------------
+05-Oct-22 12:37:30 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+05-Oct-22 12:37:30 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+05-Oct-22 12:37:30 - INFO - root - Initializing the LCD display
+05-Oct-22 12:37:32 - INFO - root - Scanning USB devices
+05-Oct-22 12:37:35 - INFO - root - Iridium device found on /dev/ttyUSB0
+05-Oct-22 12:37:35 - INFO - root - GPS device found on /dev/ttyUSB1
+05-Oct-22 12:37:35 - INFO - root - TIRIS device found on /dev/ttyUSB2
+05-Oct-22 12:37:35 - INFO - root - Initializing the serial TIRIS reader thread
+05-Oct-22 12:37:35 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+05-Oct-22 12:37:35 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+05-Oct-22 12:37:35 - INFO - root - Initializing the detection processing thread
+05-Oct-22 12:37:35 - INFO - root - Starting the MQTT broker connexion
+05-Oct-22 12:37:35 - INFO - root - Starting the detection broadcasting thread
+05-Oct-22 12:42:55 - INFO - root - -----------------------------------------------------
+05-Oct-22 12:42:55 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+05-Oct-22 12:42:55 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+05-Oct-22 12:42:55 - INFO - root - Initializing the LCD display
+05-Oct-22 12:42:57 - INFO - root - Scanning USB devices
+05-Oct-22 12:43:00 - INFO - root - Iridium device found on /dev/ttyUSB0
+05-Oct-22 12:43:00 - INFO - root - GPS device found on /dev/ttyUSB1
+05-Oct-22 12:43:00 - INFO - root - TIRIS device found on /dev/ttyUSB2
+05-Oct-22 12:43:00 - INFO - root - Initializing the serial TIRIS reader thread
+05-Oct-22 12:43:00 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+05-Oct-22 12:43:00 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+05-Oct-22 12:43:00 - INFO - root - Initializing the detection processing thread
+05-Oct-22 12:43:00 - INFO - root - Starting the MQTT broker connexion
+05-Oct-22 12:43:01 - INFO - root - Starting the detection broadcasting thread
+04-Oct-22 20:21:13 - INFO - root - -----------------------------------------------------
+04-Oct-22 20:21:13 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+04-Oct-22 20:21:13 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+04-Oct-22 20:21:13 - INFO - root - Initializing the LCD display
+04-Oct-22 20:21:15 - INFO - root - Scanning USB devices
+04-Oct-22 20:21:18 - INFO - root - Iridium device found on /dev/ttyUSB0
+04-Oct-22 20:21:20 - INFO - root - GPS device found on /dev/ttyUSB1
+04-Oct-22 20:21:20 - INFO - root - TIRIS device found on /dev/ttyUSB2
+04-Oct-22 20:21:20 - INFO - root - Initializing the serial TIRIS reader thread
+04-Oct-22 20:21:20 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+04-Oct-22 20:21:20 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+04-Oct-22 20:21:22 - INFO - root - Initializing the detection processing thread
+04-Oct-22 20:21:22 - INFO - root - Starting the MQTT broker connexion
+04-Oct-22 20:21:22 - INFO - root - Starting the detection broadcasting thread
+04-Oct-22 21:00:00 - INFO - root - System is running
+10-Oct-22 13:04:12 - INFO - root - -----------------------------------------------------
+10-Oct-22 13:04:12 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+10-Oct-22 13:04:12 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+10-Oct-22 13:04:12 - INFO - root - Initializing the LCD display
+10-Oct-22 13:04:14 - INFO - root - Scanning USB devices
+10-Oct-22 13:04:17 - INFO - root - Iridium device found on /dev/ttyUSB0
+10-Oct-22 13:04:17 - INFO - root - GPS device found on /dev/ttyUSB1
+10-Oct-22 13:04:18 - INFO - root - TIRIS device found on /dev/ttyUSB2
+10-Oct-22 13:04:18 - INFO - root - Initializing the serial TIRIS reader thread
+10-Oct-22 13:04:18 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+10-Oct-22 13:04:18 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+10-Oct-22 13:04:18 - INFO - root - Initializing the detection processing thread
+10-Oct-22 13:04:18 - INFO - root - Starting the MQTT broker connexion
+10-Oct-22 13:04:18 - INFO - root - Starting the detection broadcasting thread
+10-Oct-22 13:11:38 - INFO - root - -----------------------------------------------------
+10-Oct-22 13:11:38 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+10-Oct-22 13:11:38 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+10-Oct-22 13:11:38 - INFO - root - Initializing the LCD display
+10-Oct-22 13:11:39 - INFO - root - Scanning USB devices
+10-Oct-22 13:11:42 - INFO - root - Iridium device found on /dev/ttyUSB0
+10-Oct-22 13:11:43 - INFO - root - GPS device found on /dev/ttyUSB1
+10-Oct-22 13:11:44 - INFO - root - TIRIS device found on /dev/ttyUSB2
+10-Oct-22 13:11:44 - INFO - root - Initializing the serial TIRIS reader thread
+10-Oct-22 13:11:44 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+10-Oct-22 13:11:44 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+10-Oct-22 13:11:46 - INFO - root - Initializing the detection processing thread
+10-Oct-22 13:11:46 - INFO - root - Starting the MQTT broker connexion
+10-Oct-22 13:11:47 - INFO - root - Starting the detection broadcasting thread
+13-Oct-22 11:44:09 - INFO - root - -----------------------------------------------------
+13-Oct-22 11:44:09 - INFO - root - POLAROBS MOBILE RFID VERSION 1.1 - STARTING ACQUISITION
+13-Oct-22 11:44:09 - INFO - root - Antenna name AntaviaMobile, detecting on 1 antennas at 4 Hz.
+13-Oct-22 11:44:09 - INFO - root - Initializing the LCD display
+13-Oct-22 11:44:11 - INFO - root - Scanning USB devices
+13-Oct-22 11:44:14 - INFO - root - Iridium device found on /dev/ttyUSB0
+13-Oct-22 11:44:14 - INFO - root - GPS device found on /dev/ttyUSB1
+13-Oct-22 11:44:15 - INFO - root - TIRIS device found on /dev/ttyUSB2
+13-Oct-22 11:44:15 - INFO - root - Initializing the serial TIRIS reader thread
+13-Oct-22 11:44:15 - INFO - root - Initializing the SQLite3 penguin database at /home/pi/antavia_mobile/sqlite/penguins.db
+13-Oct-22 11:44:15 - INFO - root - Initializing the SQLite3 detection database at /var/www/html/sqlite/detections.db
+13-Oct-22 11:44:15 - INFO - root - Initializing the detection processing thread
+13-Oct-22 11:44:15 - INFO - root - Starting the MQTT broker connexion
+13-Oct-22 11:44:15 - INFO - root - Starting the detection broadcasting thread

@@ -1,0 +1,197 @@
+html {
+    margin-top: 0;
+    padding-top: 0;
+    width: 100%;
+    height: 100%;
+    font-family: system-ui, sans-serif;
+}
+
+header {
+    top: 0%;
+    left: 0%;
+    position: fixed;
+    background-color: #074C7B;
+    width: 100%;
+    height: 20vw;
+    color: #FFFFFF;
+    z-index: 99;
+}
+
+.img {
+    background-color: #074C7B;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-left: 2%;
+    float: left;
+    width: 37.5%;
+}
+
+h1 {
+    background-color: #074C7B;
+    color: #FFFFFF;
+    font-size: 6vw;
+    line-height: 100%;
+    text-align: center;
+    float: left;
+}
+
+h2 {
+    color: #193B63;
+    font-size: 150%;
+}
+
+.div1 {
+    background-color: #074C7B;
+    color: #FFFFFF;
+}
+
+.div2 {
+    background-color: #074C7B;
+    float: left;
+} 
+
+.topnav {
+    position: fixed;
+    width: 100%;
+    float: left;
+    top: 20vw;
+    left: 0%;
+    background-color: #074C7B;
+    overflow: hidden;
+    font-size: 3.8vw;
+    color: #FFFFFF;
+    padding-left: 5%;
+    padding-bottom: 3%;
+    z-index=100;
+}
+
+.topnav a {
+    width: 100%;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+.topnav a.active {
+    color: #88C1E8;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    padding-top: 0%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+body {
+    font-size: 3.5vw;
+    margin-top: 32vw;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: #FFFFFF;
+}
+
+p {
+    color: #193B63;
+    font-size: 100%;
+    text-align: justify;
+}
+
+.question {
+    font-size: 100%;
+    color: #193B63;
+    padding: 0%;
+}
+
+.textbox {
+    font-size: 100%;
+    color: #193B63;
+    padding: 0%;
+}
+
+hr {
+    color: #193B63;
+}
+
+label {
+    font-weight: bold;
+}
+
+.radio {
+    padding-left: 15%;
+}
+
+.code {
+    padding: 5%;
+    background-color: #193B63;
+    border-radius: 5vw;
+    color: #FFFFFF;
+    font-size: 100%;
+    text-align: justify;
+}
+
+.rfid {
+    padding: 2%;
+    background-color: #102741;
+    color: #FFFFFF;
+    overflow-y:scroll;
+    height:800px;
+    font-family: monospace;
+    font-size: 2vw;
+}
+
+.footer {
+    color: #193B63;
+    font-size: 80%;
+    text-align: center;
+}
+
+.button {
+    width: 100%;
+    font-size: 150%;
+    background-color: #074C7B;
+    color: #FFFFFF;
+    border: 1% solid #193B63;
+    border-radius: 5vw;
+    padding: 4%;
+}
+
+.form_button {
+    width: 25vw;
+    font-size: 150%;
+    background-color: #074C7B;
+    color: #FFFFFF;
+    border: 1% solid #193B63;
+    border-radius: 3vw;
+    padding: 4%;
+}
+
+.form_button_2 {
+    width: 40vw;
+    font-size: 150%;
+    background-color: #074C7B;
+    color: #FFFFFF;
+    border: 1% solid #193B63;
+    border-radius: 3vw;
+    padding: 4%;
+}
+
+.form_button_div{
+    padding-left: 2vw;
+    padding-right: 2vw;
+    float: left;
+}
+
+.datalink{
+    color: #193B63;
+    font-size: 160%;
+}

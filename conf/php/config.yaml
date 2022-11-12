@@ -1,0 +1,5 @@
+antenna_name: AntaviaMobile
+base_freq: 4
+n_antennas: 1
+sleeping_penguin: True
+use_lcd: True
